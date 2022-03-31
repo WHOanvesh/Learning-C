@@ -1,6 +1,6 @@
 #include <iostream>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/* Make a C program that will calculate and print electric bill. Take input of pervious and currrent month unit consumed by user.*/
 
 int main() {
 	
